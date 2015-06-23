@@ -1,0 +1,2 @@
+# coins
+Simple JavaScript game
